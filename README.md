@@ -12,7 +12,7 @@
 * **File_name:📝** [**README.md**](https://github.com/BekiHabesha/afro_football/blob/master/README.md) **file** 📒
 * **Created:🗓** 🕓 [**On May 29, 2024**](https://www.wincalendar.com/Holiday-Calendar/January-2024?v=2) 📅
 * **Author: 🖊** 🎖 [***Bereket Dereje Mekkonnen***](https://github.com/BekiHabesha)👨🏽‍💻, and
-*         **🖊** 🎖 [***Olaleye Adeola Blessing***](https://github.com/Quinade00)👨🏽‍💻
+* **Author: 🖊** 🎖 [***Olaleye Adeola Blessing***](https://github.com/Quinade00)👨🏽‍💻
 * **Project Title:💻**  🔠 [**Research and Project Proposal**](https://intranet.alxswe.com/projects/564) 🔡
 * 🛑 **Current Project Title:🛑**  🔠💽🗃 [**Build your portfolio project (Week 2): MVP Complete**](https://intranet.alxswe.com/projects/564) 🗃💽🔡
 * **GitHub repository:🗄** 📦 [**afro_football**](https://github.com/BekiHabesha/afro_football) 🗂
